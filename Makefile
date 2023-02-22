@@ -12,10 +12,6 @@ rust-version:
 	rustup --version			#rust toolchain manager
 	clippy-driver --version		#rust linter
 
-format:
-	@echo "Formatting all projects with cargo"
-	./format.sh
-
 lint:
 	@echo "Linting all projects with cargo"
 	@rustup component add clippy 2> /dev/null

@@ -23,8 +23,6 @@ jobs:
       run: make install
     - name: Check Rust versions
       run: make rust-version
-    - name: Format
-      run: make format
     - name: Lint
       run: make lint
     - name: Test
