@@ -1,1 +1,1 @@
-# week5-rust-jk499
+[![Build binary release](https://github.com/nogibjj/week5-rust-jk499/actions/workflows/release.yml/badge.svg)](https://github.com/nogibjj/week5-rust-jk499/actions/workflows/release.yml)
